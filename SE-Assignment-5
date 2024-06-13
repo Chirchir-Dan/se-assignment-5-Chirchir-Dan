@@ -1,0 +1,115 @@
+SE-Assignment-5: Installation and Navigation of Visual Studio Code (VS Code)
+Installation of VS Code:
+
+1. Steps to Download and Install Visual Studio Code on Windows 11:
+
+	- Visit VS Code's official website and download the
+	installer for Windows.
+	- Run the downloaded installer (.exe file).
+	- Follow the on-screen instructions to complete the
+	installation.
+	- Ensure you have administrative privileges for
+	installation.
+
+2. Prerequisites:
+
+	- Ensure your Windows 11 system meets the minimum
+	requirements specified on the download page.
+	- Optional: Install Git (required for version control
+	integration) if not already installed.
+
+First-time Setup:
+
+1. Initial Configurations for an Optimal Coding Environment:
+	- Settings: Customize settings such as file associations,
+	theme, and keybindings.
+	- Extensions: Install essential extensions for your
+	workflow (e.g., for programming languages, debugging,
+	and version control).
+	- Appearance: Adjust font size, line height, and editor
+	layout as per preference.
+	- Integrated Terminal: Configure shell path and default
+	shell.
+	- Sync Settings: Consider syncing settings and extensions
+	across devices using VS Code's built-in sync feature.
+
+User Interface Overview:
+
+1. Main Components of VS Code UI:
+	- Activity Bar: Provides quick access to views like
+	Explorer, Search, Source Control, etc.
+	- Side Bar: Contains different views (Explorer, Search,
+	Source Control, etc.) and extensions.
+	- Editor Group: Where open files and editors are displayed.
+	- Status Bar: Displays information about the current
+	project, file, Git branch, and more.
+
+Command Palette:
+
+1. Purpose and Access of Command Palette:
+
+	- Access: Open the Command Palette with Ctrl+Shift+P
+	(Windows) or Cmd+Shift+P (Mac).
+	- Tasks: Perform tasks like opening files, searching for
+	symbols, running commands, and installing extensions.
+
+Extensions in VS Code:
+
+1. Role of Extensions:
+	- Enhance functionality with language support, debugging
+	tools, themes, and more.
+	- Finding and Installing: Go to the Extensions view 
+	(Ctrl+Shift+X), search for extensions, and click "Install".
+	- Examples: Essential extensions include "Python",
+	"Debugger for Chrome", "GitLens", and "Live Server" for
+	web development.
+
+Integrated Terminal:
+
+1. Opening and Using Integrated Terminal:
+	- Open with Ctrl+`` or through Terminal -> New Terminal`.
+	- Advantages include seamless integration with VS Code
+	workflows (e.g., running scripts, version control commands)
+	without switching applications.
+
+File and Folder Management:
+
+1. Managing Files and Folders:
+	- Creating: Right-click in the Explorer view or use Ctrl+N
+	to create new files.
+	- Opening: Double-click a file in the Explorer view or use
+	Ctrl+P to open by filename.
+	- Navigating: Use breadcrumbs or the Explorer view to
+	navigate between files and directories efficiently.
+
+Settings and Preferences:
+
+1. Customizing Settings:
+	- Access settings through File -> Preferences -> Settings
+	or Ctrl+,.
+	- Examples: Change the theme by selecting from available
+	themes, adjust font size under "Text Editor -> Font", and
+	customize keybindings under "Keyboard Shortcuts".
+
+Debugging in VS Code:
+
+1. Setting Up and Starting Debugging:
+
+	- Install debugging extensions (if required) and set
+	breakpoints in the code.
+	- Run and debug configurations using the Debug view
+	(Ctrl+Shift+D), selecting the appropriate environment
+	(e.g., Python, JavaScript).
+	- Use features like breakpoints, watch variables,
+	call stacks, and debug console for troubleshooting.
+
+Using Source Control:
+
+1. Integrating Git with VS Code:
+	- Install Git and ensure it's accessible from the command
+	line (git --version).
+	- Initialize a Git repository in VS Code by opening a
+	folder, right-clicking, and selecting "Initialize
+	Repository".
+	- Use the Source Control view (Ctrl+Shift+G) to stage
+	changes, commit (Ctrl+Enter), and push to GitHub.
